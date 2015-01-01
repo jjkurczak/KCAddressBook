@@ -1,0 +1,15 @@
+To run this project on a Mac:
+
+1. Check out the GIT repository:
+
+In the terminal, change into your preferred directory to hold the code and run (changing “yourFolderName” to the directory you’d like to create)
+
+git clone https://github.com/jjkurczak/KCAddressBook.git yourFolderName
+
+2. Open the folder you just created
+
+3. Double click on the “KCAddressBook.xcodeproj” file to open the project in Xcode (you will need Xcode 6 to run this project properly)
+
+4. Inside Xcode, click on the “Product” menu, then “Destination”, and choose one of the devices listed under “iOS Simulator” to test the product on that device
+
+5. Click on the “Product” menu, then “Run” in the menu to build and run the app, or just press “Command-r” on the keyboard
